@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch test1",
+            "request": "launch",
+            "mainClass": "com.zyb.test.test1",
+            "projectName": "zyb"
+        },
+        {
+            "type": "java",
             "name": "Launch MergeSort",
             "request": "launch",
             "mainClass": "com.zyb.sort.MergeSort",
